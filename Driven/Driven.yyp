@@ -35,7 +35,12 @@
   },
   "name":"Driven",
   "resources":[
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"TestDude","path":"sprites/TestDude/TestDude.yy",},},
+    {"id":{"name":"TestOne","path":"sprites/TestOne/TestOne.yy",},},
+    {"id":{"name":"TestTwo","path":"sprites/TestTwo/TestTwo.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
